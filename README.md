@@ -60,6 +60,8 @@ Custom chat modes define specific behaviors and tools for GitHub Copilot Chat, e
 These chatmodes are from [Claude Code Hooks Mastery](https://github.com/disler/claude-code-hooks-mastery/tree/main/.claude/output-styles): 
 Bullet Points, GenUI, HTML Structured, Markdown Focused, Table Based, Ultra Concise, YAML Structured
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
+
 ## Contributing to Open Source
 
 Contributions are welcome! If you have a custom chat mode you'd like to share, please submit a pull request.
